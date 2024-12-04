@@ -1,0 +1,11 @@
+dbus\user_lib.o: ..\application\user_lib.c
+dbus\user_lib.o: ..\application\user_lib.h
+dbus\user_lib.o: ..\application\struct_typedef.h
+dbus\user_lib.o: ..\application\arm_math.h
+dbus\user_lib.o: ../Drivers/CMSIS/Include/core_cm4.h
+dbus\user_lib.o: D:\deskbook\yyds\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+dbus\user_lib.o: ../Drivers/CMSIS/Include/cmsis_version.h
+dbus\user_lib.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+dbus\user_lib.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+dbus\user_lib.o: D:\deskbook\yyds\MDK\ARM\ARMCC\Bin\..\include\string.h
+dbus\user_lib.o: D:\deskbook\yyds\MDK\ARM\ARMCC\Bin\..\include\math.h
